@@ -1,0 +1,639 @@
+{
+  "packages": {
+    "age": {
+      "description": "simple, modern file encryption (age, age-keygen)",
+      "files": [
+        {
+          "path": "bin/age",
+          "sha256": "98316d8754acb6c4c72f7cf0baa8c47206779dde945e76da63416705efb806d1",
+          "size": 6400185,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/age.wasm3"
+        },
+        {
+          "path": "bin/age-keygen",
+          "sha256": "660d1ea04623a1e56dba55c594dbd349742fff55f2abe9af258649bd31d4a080",
+          "size": 3311925,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/age-keygen.wasm3"
+        }
+      ],
+      "homepage": "https://age-encryption.org",
+      "license": "BSD-3-Clause",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "devel"
+    },
+    "banner": {
+      "description": "print a large banner of text",
+      "files": [
+        {
+          "path": "bin/banner",
+          "sha256": "4198131c0f193e7b370c23b2f4c4f05790525d3f9aa443206542fa6b571e1fa5",
+          "size": 51019,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/banner"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "base64": {
+      "description": "encode and decode base64 (b64 by Bob Trower)",
+      "files": [
+        {
+          "path": "bin/base64",
+          "sha256": "2a82b518ba3ca0170e618ddc22fd4a79c6d343328323a5948ccbc1510a254b5d",
+          "size": 52777,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/base64"
+        }
+      ],
+      "homepage": "https://sourceforge.net/projects/base64/",
+      "license": "MIT",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "2001"
+    },
+    "bat": {
+      "description": "cat with syntax highlighting and line numbers",
+      "files": [
+        {
+          "path": "bin/bat",
+          "sha256": "c53f6391c75b4d001f11f877ad8f4c92454aeacfb8536357e3d51fdeb549ff55",
+          "size": 5691307,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/bat.wasm3"
+        }
+      ],
+      "homepage": "https://github.com/sharkdp/bat",
+      "license": "MIT OR Apache-2.0",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "0.26.1"
+    },
+    "cal": {
+      "description": "show a calendar (cal, ncal)",
+      "files": [
+        {
+          "path": "bin/cal",
+          "sha256": "7bfc0cbd6c13a774169cea296fe161339d21366ea4f09ab33ee0ba3223662f40",
+          "size": 77614,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/cal"
+        },
+        {
+          "path": "bin/ncal",
+          "sha256": "7bfc0cbd6c13a774169cea296fe161339d21366ea4f09ab33ee0ba3223662f40",
+          "size": 77614,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/ncal"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "col": {
+      "description": "filter reverse line feeds from text",
+      "files": [
+        {
+          "path": "bin/col",
+          "sha256": "fcd8ff8b23c80846bc4458c539268fcf7bf2c852966ed99a528c5a5e1cdb8fd9",
+          "size": 57572,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/col"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "colrm": {
+      "description": "remove columns from text",
+      "files": [
+        {
+          "path": "bin/colrm",
+          "sha256": "9818c7530427de3341b14a42e2e4f5048e493f6b70ed9be4be9a305614c1ad0f",
+          "size": 49232,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/colrm"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "column": {
+      "description": "format text into columns or tables",
+      "files": [
+        {
+          "path": "bin/column",
+          "sha256": "d6712d85c9f9861533ac8bda97a82f61e94c539e331c2e63fb82570c6c9a23de",
+          "size": 73452,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/column"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "comm": {
+      "description": "compare two sorted files line by line",
+      "files": [
+        {
+          "path": "bin/comm",
+          "sha256": "1765d0f689f6251e8343cfb20262e713373e136efb55cdeb6892d86be8f36c1e",
+          "size": 58412,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/comm"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "csplit": {
+      "description": "split a file at lines matching patterns",
+      "files": [
+        {
+          "path": "bin/csplit",
+          "sha256": "bca7ce7e1169dcc259f9b79eea678988c2769b5ff070534b4d9a421f771ac294",
+          "size": 127714,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/csplit"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "expand": {
+      "description": "convert tabs to spaces (expand, unexpand)",
+      "files": [
+        {
+          "path": "bin/expand",
+          "sha256": "6aa3ec01403dffa03e3a71d193abbf6be0dc89d53c7c07014b4b04302bba276f",
+          "size": 59456,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/expand"
+        },
+        {
+          "path": "bin/unexpand",
+          "sha256": "9fca134f74d7e28af0ab5bf239ad029bd5961fe8f18d327c43d1058031345422",
+          "size": 61101,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/unexpand"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "expr": {
+      "description": "evaluate expressions",
+      "files": [
+        {
+          "path": "bin/expr",
+          "sha256": "bc9335fa6986723ce37e52ea95c8cf482db9f0d58aae8f175fd876a56257538a",
+          "size": 103185,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/expr"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "fold": {
+      "description": "wrap long lines to a width",
+      "files": [
+        {
+          "path": "bin/fold",
+          "sha256": "ea2e8dd36c7d3148a401664991b621b0920f96cbfa282604dcf90102050eb528",
+          "size": 68772,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/fold"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "getopt": {
+      "description": "parse command options in shell scripts",
+      "files": [
+        {
+          "path": "bin/getopt",
+          "sha256": "cc84f93596796661271f4846032bfd366a2cb7f988dcf49e30c25bcfb9fc05d0",
+          "size": 31083,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/getopt"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "gnu-pw-mgr": {
+      "description": "GNU password manager: derive passwords from seeds (gnu-pw-mgr, sort-pw-cfg)",
+      "files": [
+        {
+          "path": "bin/gnu-pw-mgr",
+          "sha256": "f329895afc6078ea18f38730f3437e2d03fb0548943a29c5ff84f52d5d244638",
+          "size": 161835,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/gnu-pw-mgr"
+        },
+        {
+          "path": "bin/sort-pw-cfg",
+          "sha256": "3b9a6cd0cccb327a2da9b13d53895444972dcfc3a2e1fa95f0f4e4e07c135d42",
+          "size": 118284,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/sort-pw-cfg"
+        }
+      ],
+      "homepage": "https://www.gnu.org/software/gnu-pw-mgr/",
+      "license": "GPL-3.0-or-later",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "2.7"
+    },
+    "hexdump": {
+      "description": "show file contents in hex, octal, decimal or ASCII",
+      "files": [
+        {
+          "path": "bin/hexdump",
+          "sha256": "b86ff5afb3c4efd0115f9bdd89d8bc2a4dec88c52d5d62b68e69a5f9e2d1649a",
+          "size": 99798,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/hexdump"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "join": {
+      "description": "join lines of two files on a common field",
+      "files": [
+        {
+          "path": "bin/join",
+          "sha256": "b468fc8e4f1ce91fb97259deb4935869c5ee90e3e7a1b2d8da4fb2d6e5a35151",
+          "size": 73215,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/join"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "jot": {
+      "description": "print sequential or random numbers",
+      "files": [
+        {
+          "path": "bin/jot",
+          "sha256": "df312c265d18ba05bd52f49a8def6b34d535f27b447728cd8a3015772407a685",
+          "size": 67070,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/jot"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "jq": {
+      "description": "command-line JSON processor (no regex functions yet)",
+      "files": [
+        {
+          "path": "bin/jq",
+          "sha256": "",
+          "url": "https://github.com/joesherif-1/command-line-packages/releases/download/jq-1.8.2/jq.wasm"
+        }
+      ],
+      "homepage": "https://jqlang.org",
+      "license": "MIT",
+      "source": "command-line-packages (recipes/jq)",
+      "version": "1.8.2"
+    },
+    "json2csv": {
+      "description": "convert JSON lines to CSV",
+      "files": [
+        {
+          "path": "bin/json2csv",
+          "sha256": "f1aacfb105c7d69b19b4c7dfcec0ebd2ed14a29588cfecbb0ce35a7b99a6f6cc",
+          "size": 308856,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/json2csv"
+        }
+      ],
+      "homepage": "https://github.com/jehiah/json2csv",
+      "license": "MIT",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "1.2.1"
+    },
+    "lam": {
+      "description": "laminate files side by side",
+      "files": [
+        {
+          "path": "bin/lam",
+          "sha256": "fc77b1e0550487667248a40082841b2ff2ff4509382263075e9e7ca8217ada7e",
+          "size": 50742,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/lam"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "look": {
+      "description": "show lines beginning with a string (give it a sorted file)",
+      "files": [
+        {
+          "path": "bin/look",
+          "sha256": "c0d0b7aa0b39d53daec8cc86853c4a90629eed174e2c32374be0398cd43466ad",
+          "size": 63746,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/look"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "lzmadec": {
+      "description": "decompress .lzma files (lzmadec, lzmainfo)",
+      "files": [
+        {
+          "path": "bin/lzmadec",
+          "sha256": "77bf562bdbee30e4c019adaf3bd1d4931f14b952dfbc3e159ff069d121a63d45",
+          "size": 61872,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/lzmadec.wasm"
+        },
+        {
+          "path": "bin/lzmainfo",
+          "sha256": "500b96d48755574ae3a50c2fe2d57af22978b1674fce751a00ce3586b4332f66",
+          "size": 68646,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/lzmainfo.wasm"
+        }
+      ],
+      "homepage": "https://tukaani.org/xz/",
+      "license": "0BSD (public domain)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "5.3.1alpha"
+    },
+    "minisign": {
+      "description": "sign files and verify signatures",
+      "files": [
+        {
+          "path": "bin/minisign",
+          "sha256": "83e113036906af4f28277a98438d9a487b98892dc52155e0a4e658c9d3d2e6ab",
+          "size": 154350,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/minisign"
+        }
+      ],
+      "homepage": "https://jedisct1.github.io/minisign/",
+      "license": "ISC",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "0.11"
+    },
+    "mktemp": {
+      "description": "make temporary file names",
+      "files": [
+        {
+          "path": "bin/mktemp",
+          "sha256": "9b3bbacdc69e787ec06c9d460767b9a42bd49215136be25803187e1e97eab790",
+          "size": 48394,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/mktemp"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "morse": {
+      "description": "translate text to Morse code",
+      "files": [
+        {
+          "path": "bin/morse",
+          "sha256": "b850ed5b948c03763de21bdcc793fbfe7d8cb2039469a5955faf3647ab3e8fff",
+          "size": 42068,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/morse"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "oathtool": {
+      "description": "one-time password (HOTP/TOTP) tool",
+      "files": [
+        {
+          "path": "bin/oathtool",
+          "sha256": "5a71f131b19d93b9c24d4ea70b5a9c6a0bc05b9b429a2a70bed8ef8884f0f746",
+          "size": 112398,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/oathtool"
+        }
+      ],
+      "homepage": "https://www.nongnu.org/oath-toolkit/",
+      "license": "GPL-3.0-or-later",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "2.6.9"
+    },
+    "paste": {
+      "description": "merge lines of files",
+      "files": [
+        {
+          "path": "bin/paste",
+          "sha256": "821c4779a65411ef7ab80613d048e33eba070c597bfa0ec3aef68a200178d881",
+          "size": 57087,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/paste"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "printf": {
+      "description": "formatted output",
+      "files": [
+        {
+          "path": "bin/printf",
+          "sha256": "39b338330a16b9f987da05c838f6e0cd802604a624c667cd32f1b40d28ef8943",
+          "size": 80426,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/printf"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "qjs": {
+      "description": "QuickJS-ng: a small JavaScript engine and REPL",
+      "files": [
+        {
+          "path": "bin/qjs",
+          "sha256": "3a9a260a6ef1468967e3323b3a162eeade6881cd84ddfff01144b7b30daa618e",
+          "size": 1034463,
+          "url": "https://github.com/HeavySnowJakarta/a-Shell-commands/releases/download/quickjs-v0.10.1/qjs"
+        }
+      ],
+      "homepage": "https://quickjs-ng.github.io/quickjs/",
+      "license": "MIT",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "0.10.1"
+    },
+    "rg": {
+      "description": "ripgrep: fast recursive search",
+      "files": [
+        {
+          "path": "bin/rg",
+          "sha256": "bd3d27817f2f34d625a3d24029eb2d5b16746ee4bb097d01eed8c99be9b83263",
+          "size": 21103589,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/rg"
+        }
+      ],
+      "homepage": "https://github.com/BurntSushi/ripgrep",
+      "license": "MIT OR Unlicense",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "14.1.1"
+    },
+    "rs": {
+      "description": "reshape a data array",
+      "files": [
+        {
+          "path": "bin/rs",
+          "sha256": "490e97f1cf5f758fa648263f1f406d4e73ef2de4abc505fd4c48ba1375bb3582",
+          "size": 50303,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/rs"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "split": {
+      "description": "split a file into pieces",
+      "files": [
+        {
+          "path": "bin/split",
+          "sha256": "fae2e260bd1eeb8cd984621c4c2afb3ae3105d97ff480e51f4c4e8207c05eeed",
+          "size": 123001,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/split"
+        }
+      ],
+      "homepage": "https://www.freebsd.org",
+      "license": "BSD-3-Clause (FreeBSD)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "freebsd"
+    },
+    "sqlite3": {
+      "description": "SQLite database shell",
+      "files": [
+        {
+          "path": "bin/sqlite3",
+          "sha256": "8766845186c9977f68939097b2b60e7ae125230a09cfbff5322854c741d45aed",
+          "size": 926553,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/sqlite3.wasm"
+        }
+      ],
+      "homepage": "https://sqlite.org",
+      "license": "Public domain",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "3.39.3"
+    },
+    "strings": {
+      "description": "print the printable strings in binary files (GNU binutils)",
+      "files": [
+        {
+          "path": "bin/strings",
+          "sha256": "b2b31a61ee5747e7507d69125ac674ccc0d94f6728e3644aed2ff88ba8724bd4",
+          "size": 409943,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/strings"
+        }
+      ],
+      "homepage": "https://www.gnu.org/software/binutils/",
+      "license": "GPL-3.0-or-later",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "2.42"
+    },
+    "xmlcatalog": {
+      "description": "libxml2's XML catalog tool",
+      "files": [
+        {
+          "path": "bin/xmlcatalog",
+          "sha256": "fcffbb465d9adfbcbf92e8ae05e6ac50e804b13cc5ca76f89c5f471de6aa9953",
+          "size": 1157417,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/xmlcatalog"
+        }
+      ],
+      "homepage": "https://gitlab.gnome.org/GNOME/libxml2",
+      "license": "MIT",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "2.13.2"
+    },
+    "xmllint": {
+      "description": "validate and reformat XML (libxml2)",
+      "files": [
+        {
+          "path": "bin/xmllint",
+          "sha256": "c6539d0f148ebf1eb13ef9eb9cb935a5673e1edadcc5fe35a79db4e099de7387",
+          "size": 2733494,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/xmllint"
+        }
+      ],
+      "homepage": "https://gitlab.gnome.org/GNOME/libxml2",
+      "license": "MIT",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "2.13.2"
+    },
+    "xsltproc": {
+      "description": "apply XSLT stylesheets (libxslt)",
+      "files": [
+        {
+          "path": "bin/xsltproc",
+          "sha256": "fc9eb0ef5f660aaa9da7c4a43a9367bfb827d735c07744ae9e7c5b9d17e73703",
+          "size": 2190144,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/xsltproc"
+        }
+      ],
+      "homepage": "https://gitlab.gnome.org/GNOME/libxslt",
+      "license": "MIT",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "1.1.42"
+    },
+    "xxd": {
+      "description": "make a hex dump, or turn one back into binary",
+      "files": [
+        {
+          "path": "bin/xxd",
+          "sha256": "",
+          "url": "https://github.com/joesherif-1/command-line-packages/releases/download/xxd-2026-06-16/xxd.wasm"
+        }
+      ],
+      "homepage": "https://github.com/vim/vim/tree/master/src/xxd",
+      "license": "xxd license (free to use and distribute; see xxd.c)",
+      "source": "command-line-packages (recipes/xxd)",
+      "version": "2026-06-16"
+    },
+    "xz": {
+      "description": "compress and decompress .xz files (xz, xzdec)",
+      "files": [
+        {
+          "path": "bin/xz",
+          "sha256": "b3c7dc3ec1fe4e4370796c2f6e341d1da0edb99582ab15ce3229ce3575ef81df",
+          "size": 196301,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/xz"
+        },
+        {
+          "path": "bin/xzdec",
+          "sha256": "e2adb385cf4dcde896b31c415f9f3fbeb6b797139e76718a299f323d9ecc3cf0",
+          "size": 92393,
+          "url": "https://github.com/holzschu/a-Shell-commands/releases/download/0.1/xzdec"
+        }
+      ],
+      "homepage": "https://tukaani.org/xz/",
+      "license": "0BSD (public domain)",
+      "source": "a-Shell (github.com/holzschu/a-Shell-commands)",
+      "version": "5.3.1alpha"
+    }
+  },
+  "version": 1
+}
