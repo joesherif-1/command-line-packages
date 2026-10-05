@@ -605,7 +605,8 @@
       "files": [
         {
           "path": "bin/xxd",
-          "sha256": "",
+          "sha256": "13c79a4d5910f2fdd0aa0fa8781f77802a1c21237c134b207b7d8645f82197df",
+          "size": 322261,
           "url": "https://github.com/joesherif-1/command-line-packages/releases/download/xxd-2026-06-16/xxd.wasm"
         }
       ],
