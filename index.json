@@ -299,7 +299,8 @@
       "files": [
         {
           "path": "bin/jq",
-          "sha256": "",
+          "sha256": "833c6c269fa14e2bc9faa3bca7b24fb157ce3456a402b487faedd208024fafdb",
+          "size": 1048176,
           "url": "https://github.com/joesherif-1/command-line-packages/releases/download/jq-1.8.2/jq.wasm"
         }
       ],
